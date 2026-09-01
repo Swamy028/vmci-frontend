@@ -101,8 +101,6 @@ export default function App() {
     );
   }
 
-  console.log('Current state:', state);
-
   return (
     <div className="hmi">
       <div className="hmi-header">
